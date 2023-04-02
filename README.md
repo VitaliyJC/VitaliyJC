@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/VitaliyJC" target="_blank">Vitaliy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF759&width=500&lines=Frontend+developer%2C+employee+of+;a+drilling+company+from+Russia+%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VitaliyJC&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">Frontend developer, employee of a drilling company from Russia 🇷🇺</h3>
 <!--
 **VitaliyJC/VitaliyJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
